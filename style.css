@@ -666,6 +666,9 @@ footer {
   .modal__half {
     width: 100%;
   }
+  .project__description {
+    margin-right: 50px;
+  }
 }
 
 @media (max-width: 480px) {
